@@ -4,7 +4,7 @@ Thank you for your interest in contributing.
 
 ## Pull Requests
 
-Before opening a pull request, please check the [Issues](issues) page to see if your change is already being discussed. If a relevant issue does not already exist please open one first so the change can be reviewed and discussed before work begins.
+Before opening a pull request, please check the Issues page to see if your change is already being discussed. If a relevant issue does not already exist please open one first so the change can be reviewed and discussed before work begins.
 
 Please keep any submitted PRs focused, break up large contributions into multiple PRs if they address more than one issue.
 
